@@ -15,7 +15,7 @@ public class IncrementAndDecrementOperators {
         System.out.println(num); // 21
         ++num; // 22
         System.out.println(num); // 22
-        
+
         // Decrement Operator
         int num2 = 50; // 50
 
