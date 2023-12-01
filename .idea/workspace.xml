@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eca58186-6111-42c5-8d7e-ae76e7dbe577" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dgmf/arithmeticoperators/ArithmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dgmf/subject1arithmeticoperators/ArithmeticOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dgmf/arithmeticoperators/IncrementAndDecrementOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dgmf/subject1arithmeticoperators/IncrementAndDecrementOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dgmf/bconditionalifelsestatement/ConditionalIfElseStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dgmf/subject2conditionalifelsestatement/ConditionalIfElseStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dgmf/subject2conditionalifelsestatement/ConditionalIfElseStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dgmf/subject2conditionalifelsestatement/ConditionalIfElseStatement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

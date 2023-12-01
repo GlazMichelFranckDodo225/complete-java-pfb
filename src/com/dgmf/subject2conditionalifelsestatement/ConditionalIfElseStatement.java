@@ -28,7 +28,19 @@ public class ConditionalIfElseStatement {
         System.out.println("====== If...If...Else Statement ======");
         if(num < num2) {
             System.out.println("The number is smaller than : " + num2);
-        } if(num > num3) {
+        }
+
+        if(num > num3) {
+            System.out.println("The number is greater than : " + num3);
+        } else {
+            System.out.println("The number is equal to " + num);
+        }
+
+        // If...Else If...Else Statement
+        System.out.println("====== If...Else If...Else Statement ======");
+        if(num < num2) {
+            System.out.println("The number is smaller than : " + num2);
+        } else if(num > num3) {
             System.out.println("The number is greater than : " + num3);
         } else {
             System.out.println("The number is equal to " + num);
