@@ -1,4 +1,4 @@
-package com.dgmf.bconditionalifelsestatement;
+package com.dgmf.subject2conditionalifelsestatement;
 
 public class ConditionalIfElseStatement {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.dgmf.arithmeticoperators;
+package com.dgmf.subject1arithmeticoperators;
 
 public class IncrementAndDecrementOperators {
     public static void main(String[] args) {

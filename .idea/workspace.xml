@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eca58186-6111-42c5-8d7e-ae76e7dbe577" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/dgmf/bconditionalifelsestatement/ConditionalIfElseStatement.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dgmf/arithmeticoperators/IncrementAndDecrementOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dgmf/arithmeticoperators/IncrementAndDecrementOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dgmf/arithmeticoperators/ArithmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dgmf/subject1arithmeticoperators/ArithmeticOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dgmf/arithmeticoperators/IncrementAndDecrementOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dgmf/subject1arithmeticoperators/IncrementAndDecrementOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dgmf/bconditionalifelsestatement/ConditionalIfElseStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dgmf/subject2conditionalifelsestatement/ConditionalIfElseStatement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +43,11 @@
 }</component>
   <component name="RunManager" selected="Application.ConditionalIfElseStatement">
     <configuration name="ArithmeticOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dgmf.arithmeticoperators.ArithmeticOperators" />
+      <option name="MAIN_CLASS_NAME" value="com.dgmf.subject1arithmeticoperators.ArithmeticOperators" />
       <module name="complete-java-pfb" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dgmf.arithmeticoperators.*" />
+          <option name="PATTERN" value="com.dgmf.subject1arithmeticoperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,11 +56,11 @@
       </method>
     </configuration>
     <configuration name="ConditionalIfElseStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dgmf.bconditionalifelsestatement.ConditionalIfElseStatement" />
+      <option name="MAIN_CLASS_NAME" value="com.dgmf.subject2conditionalifelsestatement.ConditionalIfElseStatement" />
       <module name="complete-java-pfb" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dgmf.bconditionalifelsestatement.*" />
+          <option name="PATTERN" value="com.dgmf.subject2conditionalifelsestatement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,11 +69,11 @@
       </method>
     </configuration>
     <configuration name="IncrementAndDecrementOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dgmf.arithmeticoperators.IncrementAndDecrementOperators" />
+      <option name="MAIN_CLASS_NAME" value="com.dgmf.subject1arithmeticoperators.IncrementAndDecrementOperators" />
       <module name="complete-java-pfb" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dgmf.arithmeticoperators.*" />
+          <option name="PATTERN" value="com.dgmf.subject1arithmeticoperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
