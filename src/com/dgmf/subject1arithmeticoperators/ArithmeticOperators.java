@@ -14,6 +14,6 @@ public class ArithmeticOperators {
         System.out.println("The difference is : " + difference);
         System.out.println("The product is : " + product);
         System.out.println("The integer division is : " + integerDivision);
-        System.out.println("The modulo is : " + modulo);
+        System.out.println("The remain is : " + modulo);
     }
 }

@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eca58186-6111-42c5-8d7e-ae76e7dbe577" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/dgmf/subject3relationaloperators/RelationalOperators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/dgmf/subject4assignmentoperators/AssignmentOperators.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dgmf/subject1arithmeticoperators/ArithmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dgmf/subject1arithmeticoperators/ArithmeticOperators.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,13 +40,26 @@
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RelationalOperators">
+  <component name="RunManager" selected="Application.AssignmentOperators">
     <configuration name="ArithmeticOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dgmf.subject1arithmeticoperators.ArithmeticOperators" />
       <module name="complete-java-pfb" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.dgmf.subject1arithmeticoperators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AssignmentOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dgmf.subject4assignmentoperators.AssignmentOperators" />
+      <module name="complete-java-pfb" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dgmf.subject4assignmentoperators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,19 +93,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaTestClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.dgmf.JavaTestClass" />
-      <module name="complete-java-pfb" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dgmf.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RelationalOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dgmf.subject3relationaloperators.RelationalOperators" />
       <module name="complete-java-pfb" />
@@ -107,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AssignmentOperators" />
         <item itemvalue="Application.RelationalOperators" />
         <item itemvalue="Application.ConditionalIfElseStatement" />
         <item itemvalue="Application.IncrementAndDecrementOperators" />
         <item itemvalue="Application.ArithmeticOperators" />
-        <item itemvalue="Application.JavaTestClass" />
       </list>
     </recent_temporary>
   </component>
